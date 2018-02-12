@@ -1,0 +1,1 @@
+sql> alter table drop column1
